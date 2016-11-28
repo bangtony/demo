@@ -1,3 +1,3 @@
 <?php
-	echo "Bang Tran changed";
+	echo "Index";
 ?>
