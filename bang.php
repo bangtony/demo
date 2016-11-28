@@ -1,3 +1,3 @@
 <?php
-	echo "Bang Tran change";
+	echo "Bang Tran changed";
 ?>
